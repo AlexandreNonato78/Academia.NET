@@ -1,1 +1,0 @@
-# Exercicios031023Sequenciais
