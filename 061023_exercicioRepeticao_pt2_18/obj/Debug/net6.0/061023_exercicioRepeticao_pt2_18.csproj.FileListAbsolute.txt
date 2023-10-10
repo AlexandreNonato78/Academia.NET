@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\bin\Debug\net6.0\061023_exercicioRepeticao_pt2_18.exe
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\bin\Debug\net6.0\061023_exercicioRepeticao_pt2_18.deps.json
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\bin\Debug\net6.0\061023_exercicioRepeticao_pt2_18.runtimeconfig.json
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\bin\Debug\net6.0\061023_exercicioRepeticao_pt2_18.dll
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\bin\Debug\net6.0\061023_exercicioRepeticao_pt2_18.pdb
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\061023_exercicioRepeticao_pt2_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\061023_exercicioRepeticao_pt2_18.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\061023_exercicioRepeticao_pt2_18.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\061023_exercicioRepeticao_pt2_18.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\061023_exercicioRepeticao_pt2_18.dll
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\refint\061023_exercicioRepeticao_pt2_18.dll
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\061023_exercicioRepeticao_pt2_18.pdb
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\061023_exercicioRepeticao_pt2_18.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\061023_exercicioRepeticao_pt2_18\obj\Debug\net6.0\ref\061023_exercicioRepeticao_pt2_18.dll
