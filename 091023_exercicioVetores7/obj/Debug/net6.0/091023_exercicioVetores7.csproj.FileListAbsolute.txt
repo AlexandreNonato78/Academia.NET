@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\bin\Debug\net6.0\091023_exercicioVetores7.exe
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\bin\Debug\net6.0\091023_exercicioVetores7.deps.json
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\bin\Debug\net6.0\091023_exercicioVetores7.runtimeconfig.json
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\bin\Debug\net6.0\091023_exercicioVetores7.dll
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\bin\Debug\net6.0\091023_exercicioVetores7.pdb
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\091023_exercicioVetores7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\091023_exercicioVetores7.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\091023_exercicioVetores7.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\091023_exercicioVetores7.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\091023_exercicioVetores7.dll
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\refint\091023_exercicioVetores7.dll
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\091023_exercicioVetores7.pdb
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\091023_exercicioVetores7.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\091023_exercicioVetores7\obj\Debug\net6.0\ref\091023_exercicioVetores7.dll
