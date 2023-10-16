@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101023_exercicioMatrizes9", "101023_exercicioMatrizes9.csproj", "{80845B5C-A035-49D9-96C7-FB8C698D2C05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80845B5C-A035-49D9-96C7-FB8C698D2C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80845B5C-A035-49D9-96C7-FB8C698D2C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80845B5C-A035-49D9-96C7-FB8C698D2C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80845B5C-A035-49D9-96C7-FB8C698D2C05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2EA0CED-8BF0-4DA7-8CE4-C853A10B32EF}
+	EndGlobalSection
+EndGlobal
