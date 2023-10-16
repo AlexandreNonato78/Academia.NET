@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "101023_exercicioMatrizes11/1.0.0": {
+        "runtime": {
+          "101023_exercicioMatrizes11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "101023_exercicioMatrizes11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
