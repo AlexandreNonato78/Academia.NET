@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\bin\Debug\net6.0\101023_exercicioMatrizes8.exe
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\bin\Debug\net6.0\101023_exercicioMatrizes8.deps.json
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\bin\Debug\net6.0\101023_exercicioMatrizes8.runtimeconfig.json
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\bin\Debug\net6.0\101023_exercicioMatrizes8.dll
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\bin\Debug\net6.0\101023_exercicioMatrizes8.pdb
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\101023_exercicioMatrizes8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\101023_exercicioMatrizes8.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\101023_exercicioMatrizes8.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\101023_exercicioMatrizes8.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\101023_exercicioMatrizes8.dll
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\refint\101023_exercicioMatrizes8.dll
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\101023_exercicioMatrizes8.pdb
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\101023_exercicioMatrizes8.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\101023_exercicioMatrizes8\obj\Debug\net6.0\ref\101023_exercicioMatrizes8.dll
