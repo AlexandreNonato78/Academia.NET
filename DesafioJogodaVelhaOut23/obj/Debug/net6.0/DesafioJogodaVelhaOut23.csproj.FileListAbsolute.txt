@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\bin\Debug\net6.0\DesafioJogodaVelhaOut23.exe
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\bin\Debug\net6.0\DesafioJogodaVelhaOut23.deps.json
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\bin\Debug\net6.0\DesafioJogodaVelhaOut23.runtimeconfig.json
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\bin\Debug\net6.0\DesafioJogodaVelhaOut23.dll
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\bin\Debug\net6.0\DesafioJogodaVelhaOut23.pdb
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\DesafioJogodaVelhaOut23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\DesafioJogodaVelhaOut23.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\DesafioJogodaVelhaOut23.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\DesafioJogodaVelhaOut23.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\DesafioJogodaVelhaOut23.dll
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\refint\DesafioJogodaVelhaOut23.dll
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\DesafioJogodaVelhaOut23.pdb
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\DesafioJogodaVelhaOut23.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\DesafioJogodaVelhaOut23\obj\Debug\net6.0\ref\DesafioJogodaVelhaOut23.dll
