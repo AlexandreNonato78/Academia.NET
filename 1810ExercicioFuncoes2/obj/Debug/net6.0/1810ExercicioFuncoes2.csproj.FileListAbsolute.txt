@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\bin\Debug\net6.0\1810ExercicioFuncoes2.exe
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\bin\Debug\net6.0\1810ExercicioFuncoes2.deps.json
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\bin\Debug\net6.0\1810ExercicioFuncoes2.runtimeconfig.json
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\bin\Debug\net6.0\1810ExercicioFuncoes2.dll
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\bin\Debug\net6.0\1810ExercicioFuncoes2.pdb
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\1810ExercicioFuncoes2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\1810ExercicioFuncoes2.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\1810ExercicioFuncoes2.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\1810ExercicioFuncoes2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\1810ExercicioFuncoes2.dll
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\refint\1810ExercicioFuncoes2.dll
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\1810ExercicioFuncoes2.pdb
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\1810ExercicioFuncoes2.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\1810ExercicioFuncoes2\obj\Debug\net6.0\ref\1810ExercicioFuncoes2.dll
