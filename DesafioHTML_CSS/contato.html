@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academia.NET - Inscrição</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Academia.NET</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="sobre.html">Sobre</a></li>
+                <li><a href="contato.html">Inscrição</a></li>
+                <li><a href="galeria.html">Galeria</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="contact-page">
+        <div class="contact-form">
+            <h2>Inscrição</h2>
+            <form id="contact-form">
+                <label for="name">Nome:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="telefone">Telefone:</label>
+                <input type="number" id="telefone" name="telefone" required>
+
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" required>
+                
+                <label for="message">Mensagem:</label>
+                <textarea id="message" name="message" rows="3" required></textarea>
+                
+                <button type="submit">Enviar</button>
+            </form>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Academia.NET</p>
+    </footer>
+
+    <script>
+        document.getElementById('contact-form').addEventListener('submit', function(e) {
+            e.preventDefault(); // Impede o envio padrão do formulário
+            // Simule o envio do formulário (pode ser substituído por código de envio real)
+            // Após o envio bem-sucedido, redirecione para a página de confirmação
+            window.location.href = 'confirma.html';
+        });
+    </script>
+</body>
+</html>

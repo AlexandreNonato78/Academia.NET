@@ -1,0 +1,204 @@
+/* Estilos para o cabeçalho */
+header {
+    background-color: #0a121a;
+    font-family:'Lucida Sans Regular';
+    font-size: 20px;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-family:'Segoe UI';
+    font-size: 45px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #0a121a;
+    font-family:'Lucida Sans Regular';
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilos para o conteúdo principal */
+main {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;
+}
+/* Estilos para a imagem com efeito de zoom */
+.zoom-image {
+    transition: transform 0.5s; /* Adiciona uma transição suave de 0.5 segundos para o efeito de zoom */
+    cursor: pointer; /* Altera o cursor para indicar que a imagem é clicável */
+}
+
+/* Efeito de zoom ao passar o mouse */
+.zoom-image:hover {
+    transform: scale(1.2); /* Aumenta a escala da imagem em 20% ao passar o mouse */
+}
+
+#titulo-bem-vindo {
+    font-size: 36px;
+    color: #0a121a;
+    /* Outros estilos específicos para este elemento */
+}
+
+/* Estilos para a galeria */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.gallery {
+    display: block; /* Tornar a div em um bloco */
+}
+
+.gallery img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px; /* Adicione margem inferior entre as imagens */
+}
+
+/* Estilos para a frase de boas-vindas */
+.welcome-text {
+    animation: slideRight 2s ease-in-out;
+    opacity: 1; /* Inicie com opacidade 1 para que o texto permaneça visível durante a animação */
+    font-size: 28px; /* Aumentar o tamanho da fonte */
+    font-weight: bold; /* Definir a fonte em negrito */
+    color: #0a121a; /* Alterar a cor do texto para azul */
+}
+
+/* Estilos para o texto de introdução */
+.intro-text {
+    font-size: 20px; /* Tamanho da fonte ligeiramente menor */
+    line-height: 1.4; /* Aumentar o espaçamento entre linhas para melhor legibilidade */
+}
+
+/* Defina a animação usando @keyframes */
+@keyframes slideRight {
+    0% {
+        transform: translateX(-100%); /* Comece da esquerda (fora da tela) */
+    }
+    100% {
+        transform: translateX(0); /* Termine na posição original (dentro da tela) */
+    }
+}
+
+/* página "contato.html" */
+.contact-page {
+    background-image: url('atostransp.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.contact-form {
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.2); /* Sombra com baixa opacidade */
+    text-align: center;
+    background-color: rgba(10, 18, 26, 0.5); /* Fundo com transparência (cor escura com 70% de opacidade) */
+}
+
+.contact-form h2 {
+    color: black;
+}
+
+.contact-form form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.contact-form label {
+    display: block;
+    margin: 10px 0;
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.8); /* Fundo dos campos com transparência (cor branca com 70% de opacidade) */
+}
+
+.contact-form button {
+    background-color: #0a121a;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/*página "sobre.html" */
+.sobre-pagina{
+    background-color: #f7f7f7; /* Cor de fundo */
+    padding: 20px;
+    text-align: center;
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.about-content h2 {
+    font-size: 30px; 
+    color: black; /* Cor do título */
+    font-family: Arial; 
+}
+
+.about-content p {
+    font-size: 20px; 
+    color: black; /* Cor do texto */
+    text-align: justify; /* Alinhamento do texto */
+    font-family: Arial;
+    line-height: 1.4; /* Aumentar o espaçamento entre linhas para melhor legibilidade */
+}
+
+.company-image {
+    width: 100%;
+    max-width: 700px;
+    margin: 20px auto;
+    display: block;
+}
+
+.about-content h3 {
+    font-size: 22px; 
+    color: black; /* Cor do título */
+    font-family: Arial; 
+    line-height: 1.4; /* Aumentar o espaçamento entre linhas para melhor legibilidade */
+}
+
+ul {
+    list-style: none; /* Marcadores de lista */
+    margin-left: 10px;
+}
+
+
