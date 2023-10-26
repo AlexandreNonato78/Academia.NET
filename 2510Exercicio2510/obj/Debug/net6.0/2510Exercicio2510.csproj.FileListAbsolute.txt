@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\2510Exercicio2510\bin\Debug\net6.0\2510Exercicio2510.exe
+C:\Users\Alexandre\source\repos\2510Exercicio2510\bin\Debug\net6.0\2510Exercicio2510.deps.json
+C:\Users\Alexandre\source\repos\2510Exercicio2510\bin\Debug\net6.0\2510Exercicio2510.runtimeconfig.json
+C:\Users\Alexandre\source\repos\2510Exercicio2510\bin\Debug\net6.0\2510Exercicio2510.dll
+C:\Users\Alexandre\source\repos\2510Exercicio2510\bin\Debug\net6.0\2510Exercicio2510.pdb
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\2510Exercicio2510.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\2510Exercicio2510.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\2510Exercicio2510.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\2510Exercicio2510.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\2510Exercicio2510.dll
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\refint\2510Exercicio2510.dll
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\2510Exercicio2510.pdb
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\2510Exercicio2510.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\2510Exercicio2510\obj\Debug\net6.0\ref\2510Exercicio2510.dll
