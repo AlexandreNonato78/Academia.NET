@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\bin\Debug\net6.0\2510ExercicioO.O.3.exe
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\bin\Debug\net6.0\2510ExercicioO.O.3.deps.json
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\bin\Debug\net6.0\2510ExercicioO.O.3.runtimeconfig.json
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\bin\Debug\net6.0\2510ExercicioO.O.3.dll
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\bin\Debug\net6.0\2510ExercicioO.O.3.pdb
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\2510ExercicioO.O.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\2510ExercicioO.O.3.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\2510ExercicioO.O.3.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\2510ExercicioO.O.3.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\2510ExercicioO.O.3.dll
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\refint\2510ExercicioO.O.3.dll
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\2510ExercicioO.O.3.pdb
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\2510ExercicioO.O.3.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\2510ExercicioO.O.3\obj\Debug\net6.0\ref\2510ExercicioO.O.3.dll
