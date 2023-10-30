@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\bin\Debug\net6.0\2610ExercicioOrient.Obj.4.exe
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\bin\Debug\net6.0\2610ExercicioOrient.Obj.4.deps.json
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\bin\Debug\net6.0\2610ExercicioOrient.Obj.4.runtimeconfig.json
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\bin\Debug\net6.0\2610ExercicioOrient.Obj.4.dll
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\bin\Debug\net6.0\2610ExercicioOrient.Obj.4.pdb
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\2610ExercicioOrient.Obj.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\2610ExercicioOrient.Obj.4.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\2610ExercicioOrient.Obj.4.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\2610ExercicioOrient.Obj.4.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\2610ExercicioOrient.Obj.4.dll
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\refint\2610ExercicioOrient.Obj.4.dll
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\2610ExercicioOrient.Obj.4.pdb
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\2610ExercicioOrient.Obj.4.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\2610ExercicioOrient.Obj.4\obj\Debug\net6.0\ref\2610ExercicioOrient.Obj.4.dll
