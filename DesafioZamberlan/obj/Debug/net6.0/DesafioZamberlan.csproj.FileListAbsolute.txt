@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\DesafioZamberlan\bin\Debug\net6.0\DesafioZamberlan.exe
+C:\Users\Alexandre\source\repos\DesafioZamberlan\bin\Debug\net6.0\DesafioZamberlan.deps.json
+C:\Users\Alexandre\source\repos\DesafioZamberlan\bin\Debug\net6.0\DesafioZamberlan.runtimeconfig.json
+C:\Users\Alexandre\source\repos\DesafioZamberlan\bin\Debug\net6.0\DesafioZamberlan.dll
+C:\Users\Alexandre\source\repos\DesafioZamberlan\bin\Debug\net6.0\DesafioZamberlan.pdb
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\DesafioZamberlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\DesafioZamberlan.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\DesafioZamberlan.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\DesafioZamberlan.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\DesafioZamberlan.dll
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\refint\DesafioZamberlan.dll
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\DesafioZamberlan.pdb
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\DesafioZamberlan.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\DesafioZamberlan\obj\Debug\net6.0\ref\DesafioZamberlan.dll
