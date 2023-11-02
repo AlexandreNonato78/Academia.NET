@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\bin\Debug\net6.0\0111ExercicioO.O.4.exe
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\bin\Debug\net6.0\0111ExercicioO.O.4.deps.json
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\bin\Debug\net6.0\0111ExercicioO.O.4.runtimeconfig.json
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\bin\Debug\net6.0\0111ExercicioO.O.4.dll
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\bin\Debug\net6.0\0111ExercicioO.O.4.pdb
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\0111ExercicioO.O.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\0111ExercicioO.O.4.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\0111ExercicioO.O.4.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\0111ExercicioO.O.4.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\0111ExercicioO.O.4.dll
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\refint\0111ExercicioO.O.4.dll
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\0111ExercicioO.O.4.pdb
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\0111ExercicioO.O.4.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\0111ExercicioO.O.4\obj\Debug\net6.0\ref\0111ExercicioO.O.4.dll
