@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DesafioZamberlan0311/1.0.0": {
+        "runtime": {
+          "DesafioZamberlan0311.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafioZamberlan0311/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
