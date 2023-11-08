@@ -1,0 +1,14 @@
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\bin\Debug\net6.0\0611_O.O_Abstração6.exe
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\bin\Debug\net6.0\0611_O.O_Abstração6.deps.json
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\bin\Debug\net6.0\0611_O.O_Abstração6.runtimeconfig.json
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\bin\Debug\net6.0\0611_O.O_Abstração6.dll
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\bin\Debug\net6.0\0611_O.O_Abstração6.pdb
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\0611_O.O_Abstração6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\0611_O.O_Abstração6.AssemblyInfoInputs.cache
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\0611_O.O_Abstração6.AssemblyInfo.cs
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\0611_O.O_Abstração6.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\0611_O.O_Abstração6.dll
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\refint\0611_O.O_Abstração6.dll
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\0611_O.O_Abstração6.pdb
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\0611_O.O_Abstração6.genruntimeconfig.cache
+C:\Users\Alexandre\source\repos\0611_O.O_Abstração6\obj\Debug\net6.0\ref\0611_O.O_Abstração6.dll
