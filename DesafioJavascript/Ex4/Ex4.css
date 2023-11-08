@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+p {
+    text-align: justify;
+    font-size: 16px;
+    margin: 20px;
+}
+
+#toggleButton {
+    font-size: 16px;
+    padding: 5px 10px;
+    background-color: #07395a;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    margin: 0 auto; /* Centraliza horizontalmente */
+    display: block; /* Para alinhar horizontalmente */
+}
+

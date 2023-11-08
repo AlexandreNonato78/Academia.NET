@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleção de Itens com Botão</title>
+    <link rel="stylesheet" type="text/css" href="Ex5.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id='branding'>
+                <h1> <span class="highlight">Selecione outro Exercício</span></h1>
+            </div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex1\Ex1.html">Exercício01</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex2\Ex2.html">Exercício02</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex3\Ex3.html">Exercício03</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex4\Ex4.html">Exercício04</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex5\Ex5.html">Exercício05</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex6\Ex6.html">Exercício06</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex7\Ex7.html">Exercício07</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex8\Ex8.html">Exercício08</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex9\Ex9.html">Exercício09</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex10\Ex10.html">Exercício10</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <h2>Exercício 5 - Seleção de Itens</h2>
+        <form id="itemForm">
+            <label for="item1">
+                <input type="checkbox" id="item1" name="item" onclick="checkButton()">
+                Item 1
+            </label><br>
+            <label for="item2">
+                <input type="checkbox" id="item2" name="item" onclick="checkButton()">
+                Item 2
+            </label><br>
+            <label for="item3">
+                <input type="checkbox" id="item3" name="item" onclick="checkButton()">
+                Item 3
+            </label><br>
+            <label for="item4">
+                <input type="checkbox" id="item4" name="item" onclick="checkButton()">
+                Item 4
+            </label><br>
+            <button id="submitButton" disabled>Clique no Botão somente depois de<br> selecionar 2 ou mais itens</button>
+        </form>
+    </main>
+    <script src="Ex5.js"></script>
+    <footer>
+        <p>Site de serviços &copy; Alexandre Nonato</p>
+    </footer>
+</body>
+</html>

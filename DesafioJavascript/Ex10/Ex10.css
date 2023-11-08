@@ -1,0 +1,118 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #032b46;
+}
+
+h1 {
+    color: #fff;
+    font-size: 25pt;
+}
+
+h2 {
+    color: #032b46;
+    text-align: center;
+    font-size: 25pt;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+li {
+    margin-right: 30px;
+}
+
+label, input {
+    display: block;
+    margin: 10px 0;
+    text-align: center;
+    width: 100%;
+    padding: 4px;
+    font-size: 16px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+    .nav-links li a {
+        color: #fff;
+        text-decoration: none;
+        margin-right: 10px; /* Add space to the right of each link */
+    }
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #032b46;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: not-allowed;
+}
+
+button:enabled {
+    cursor: pointer;
+}
+
+/* Estilos para o botão de Pessoa Física e Pessoa Jurídica */
+li label {
+    cursor: pointer;
+}
+
+/* Estilo para campos que estão visíveis */
+label[for="cpf"], label[for="cnpj"], label[for="birth"] {
+    display: block;
+}
+
+.natureza-juridica {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+#radio-container {
+    text-align: center;
+}
+
+#radio-container ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+#radio-container ul li {
+    margin-right: 20px;
+}
+
+.default-label {
+    display: block;
+    margin: 10px 0;
+}
+
+.individual-label, .legal-label {
+    display: none;
+}

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cadastro de Usuário</title>
+    <link rel="stylesheet" type="text/css" href="Ex9.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div id='branding'>
+                <h1> <span class="highlight">Selecione outro Exercício</span></h1>
+            </div>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex1\Ex1.html">Exercício01</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex2\Ex2.html">Exercício02</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex3\Ex3.html">Exercício03</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex4\Ex4.html">Exercício04</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex5\Ex5.html">Exercício05</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex6\Ex6.html">Exercício06</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex7\Ex7.html">Exercício07</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex8\Ex8.html">Exercício08</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex9\Ex9.html">Exercício09</a></li>
+                    <li><a href="C:\Users\Alexandre\source\repos\DesafioJavascript\Ex10\Ex10.html">Exercício10</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <h2>Cadastro de Usuário</h2>
+        <form id="userForm" onsubmit="return validateForm()">
+            <label for="login">Login:</label>
+            <input type="text" id="login" name="login" required><br>
+
+            <label for="password">Senha:</label>
+            <input type="password" id="password" name="password" required><br>
+
+            <label for="confirmPassword">Confirmar Senha:</label>
+            <input type="password" id="confirmPassword" name="confirmPassword" required><br>
+
+            <button type="submit" id="submitButton">Cadastrar</button>
+            <p id="errorText" class="hidden"></p>
+        </form>
+    </main>
+    <script src="Ex9.js"></script>
+</body>
+</html>
